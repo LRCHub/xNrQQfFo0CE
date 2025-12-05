@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Burning",
+  "base_artist": "Hitsujibungaku",
+  "createdAt": "2025-12-05T02:12:38.492654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burning Heart",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/01_Burning_Heart_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beds Are Burning",
+      "artist": "Amanda Palmer feat. Missy Higgins, Brian Viglione & Jherek Bischoff",
+      "has_synced": true,
+      "path": "select/02_Beds_Are_Burning_Amanda_Palmer_feat._Missy_Higgins,_Brian_Viglione_&_Jherek_Bischoff.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Burning House",
+      "artist": "Cam",
+      "has_synced": true,
+      "path": "select/03_Burning_House_Cam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Burning Man",
+      "artist": "Dierks Bentley feat. Brothers Osborne",
+      "has_synced": true,
+      "path": "select/04_Burning_Man_Dierks_Bentley_feat._Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Burning Man",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/05_Burning_Man_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burning Down the Nicotine Armoire",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/06_Burning_Down_the_Nicotine_Armoire_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Burning Down the Nicotine Armoire Pt. 2",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/07_Burning_Down_the_Nicotine_Armoire_Pt._2_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/08_Burning_Up_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Burning the Mirror",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/09_Burning_the_Mirror_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Burning Bridges",
+      "artist": "Ludacris feat. Jason Aldean",
+      "has_synced": true,
+      "path": "select/10_Burning_Bridges_Ludacris_feat._Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Burning Bridges (feat. Jason Aldean)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/11_Burning_Bridges_(feat._Jason_Aldean)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Essex Is Burning",
+      "artist": "Lapalux",
+      "has_synced": false,
+      "path": "select/12_Essex_Is_Burning_Lapalux.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Burning Bridges (On And Off And On Again)",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/13_Burning_Bridges_(On_And_Off_And_On_Again)_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Burning Bridges (On & Off & On Again)",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/14_Burning_Bridges_(On_&_Off_&_On_Again)_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Burning Hill",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/15_A_Burning_Hill_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BURNING BRIGHT FT. KIM ANN FOXMAN",
+      "artist": "Maya Jane Coles",
+      "has_synced": true,
+      "path": "select/16_BURNING_BRIGHT_FT._KIM_ANN_FOXMAN_Maya_Jane_Coles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Burning Bright (feat. Kim Ann Foxman)",
+      "artist": "Maya Jane Coles",
+      "has_synced": true,
+      "path": "select/17_Burning_Bright_(feat._Kim_Ann_Foxman)_Maya_Jane_Coles.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Burning Pile",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/18_Burning_Pile_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/19_Burning_Up_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/20_Burning_Up_Madonna.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Burning",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_Burning_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Burning",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_02_Burning_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Burning",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_03_Burning_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Burning - English ver.",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_04_Burning_-_English_ver._羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Burning - Anime ver.",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_05_Burning_-_Anime_ver._羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Burning - Acoustic ver.",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_06_Burning_-_Acoustic_ver._羊文学.txt"
+    }
+  ]
+}
